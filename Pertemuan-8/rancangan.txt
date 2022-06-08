@@ -1,0 +1,4 @@
+Input tabel menggunakan perulangan
+Input judul buku yang akan dicari
+Proses mencari
+Output berupa tabel dan hasil pencarian
