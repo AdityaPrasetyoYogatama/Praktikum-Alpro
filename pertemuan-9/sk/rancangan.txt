@@ -1,0 +1,11 @@
+input dalam array 1d :
+input kelas A (NIM, NAMA)
+input kelas B (NIM, NAMA)
+input kelas C (NIM, NAMA)
+
+proses:
+mengubah array 1d menjadi array 2d
+
+output :
+output tabel dengan array 1d
+output tabel dengan array 2d
